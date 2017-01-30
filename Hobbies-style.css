@@ -1,0 +1,12 @@
+.container {
+    background-color: #efefef; 
+    border-bottom: 1px solid #dbdbdb;
+}
+.container h2  {
+    color:coral; 
+    font-size:24px; 
+}
+.container p  {
+    font-size:15px;
+    margin-bottom:13px;
+}
